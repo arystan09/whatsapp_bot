@@ -1,0 +1,8 @@
+Flask
+python-dotenv
+requests
+openai
+gspread
+oauth2client
+SQLAlchemy
+rapidfuzz
